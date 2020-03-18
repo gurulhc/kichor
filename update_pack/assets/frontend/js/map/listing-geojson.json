@@ -1,0 +1,385 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "90.362696",
+                    "23.862997"
+                ]
+            },
+            "properties": {
+                "id": "6310fae40526d40d0966d8d857980769",
+                "index": 0,
+                "isActive": true,
+                "logo": "thumbnail.png",
+                "image": "thumbnail.png",
+                "link": "http://localhost:8888/atlas_2.1/general/dhaka-1-dfgdfg/1",
+                "url": "",
+                "name": "dhaka 1 dfgdfg",
+                "category": "general",
+                "email": "",
+                "stars": "0.0",
+                "phone": "",
+                "address": "asd",
+                "about": "erqew\r\n",
+                "tags": [
+                    ""
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "90.362696",
+                    "23.862789"
+                ]
+            },
+            "properties": {
+                "id": "e712dbdddb2740d35164f2cc7142fffd",
+                "index": 1,
+                "isActive": true,
+                "logo": "thumbnail.png",
+                "image": "thumbnail.png",
+                "link": "http://localhost:8888/atlas_2.1/beauty/dhaka-2-iyty/2",
+                "url": "",
+                "name": "dhaka 2 iyty",
+                "category": "beauty",
+                "email": "ponkojr7@gmail.com",
+                "stars": "0.0",
+                "phone": "",
+                "address": "asd",
+                "about": "asd\r\n",
+                "tags": [
+                    "43"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "90.362456",
+                    "23.862456"
+                ]
+            },
+            "properties": {
+                "id": "95703c9bbfe4d7509f78dfd04f401b6c",
+                "index": 2,
+                "isActive": true,
+                "logo": "thumbnail.png",
+                "image": "thumbnail.png",
+                "link": "http://localhost:8888/atlas_2.1/general/dhaka-3-yfgure/3",
+                "url": "",
+                "name": "dhaka 3 yfgure",
+                "category": "general",
+                "email": "",
+                "stars": "0.0",
+                "phone": "",
+                "address": "",
+                "about": "sdf\r\n",
+                "tags": [
+                    ""
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "90.362696",
+                    "23.862997"
+                ]
+            },
+            "properties": {
+                "id": "33ad27c2af5df34bb1fdbd8e85f83ae7",
+                "index": 3,
+                "isActive": true,
+                "logo": "c0d3d2f425d7165f1372818b60c619f4.jpg",
+                "image": "c0d3d2f425d7165f1372818b60c619f4.jpg",
+                "link": "http://localhost:8888/atlas_2.1/general/dhaka-4-dsfgsd/5",
+                "url": "",
+                "name": "dhaka 4 dsfgsd",
+                "category": "general",
+                "email": "",
+                "stars": "0.0",
+                "phone": "",
+                "address": "asdasd",
+                "about": "asd\r\n",
+                "tags": [
+                    "sdfsa",
+                    "sadfasdf",
+                    "sdfsdf"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "90.362696",
+                    "23.862997"
+                ]
+            },
+            "properties": {
+                "id": "0509d08f9d3ca332337495fabf2535e1",
+                "index": 4,
+                "isActive": true,
+                "logo": "thumbnail.png",
+                "image": "thumbnail.png",
+                "link": "http://localhost:8888/atlas_2.1/general/dhaka-5-dfgdfg/6",
+                "url": "",
+                "name": "dhaka 5 dfgdfg",
+                "category": "general",
+                "email": "",
+                "stars": "0.0",
+                "phone": "",
+                "address": "sdf",
+                "about": "ZXCz\r\n",
+                "tags": [
+                    "sxcvz",
+                    "zxcv"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "90.362696",
+                    "23.862997"
+                ]
+            },
+            "properties": {
+                "id": "2348722eebe07d9df8f1c9d7c113db1f",
+                "index": 5,
+                "isActive": true,
+                "logo": "thumbnail.png",
+                "image": "thumbnail.png",
+                "link": "http://localhost:8888/atlas_2.1/general/dhaka-7-dfkjdf/8",
+                "url": "",
+                "name": "dhaka 7 dfkjdf",
+                "category": "general",
+                "email": "",
+                "stars": "0.0",
+                "phone": "",
+                "address": "asd",
+                "about": "asdf\r\n",
+                "tags": [
+                    ""
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "90.362696",
+                    "23.862997"
+                ]
+            },
+            "properties": {
+                "id": "c1b350f97223f4458333634593e8daef",
+                "index": 6,
+                "isActive": true,
+                "logo": "thumbnail.png",
+                "image": "thumbnail.png",
+                "link": "http://localhost:8888/atlas_2.1/general/dhaka-9-fghfg/10",
+                "url": "",
+                "name": "dhaka 9 fghfg",
+                "category": "general",
+                "email": "",
+                "stars": "0.0",
+                "phone": "",
+                "address": "ewrrnewqr",
+                "about": "segt\r\n",
+                "tags": [
+                    ""
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "90.362696",
+                    "23.862997"
+                ]
+            },
+            "properties": {
+                "id": "7fb0199c6b1ade8a81c0c6b95b5d2613",
+                "index": 7,
+                "isActive": true,
+                "logo": "thumbnail.png",
+                "image": "thumbnail.png",
+                "link": "http://localhost:8888/atlas_2.1/general/dhaka-10-fdgth/11",
+                "url": "",
+                "name": "dhaka 10 fdgth",
+                "category": "general",
+                "email": "",
+                "stars": "0.0",
+                "phone": "",
+                "address": "asd",
+                "about": "asd\r\n",
+                "tags": [
+                    ""
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "90.362696",
+                    "23.862997"
+                ]
+            },
+            "properties": {
+                "id": "f07c2ec2715acea9e589f188a27606a5",
+                "index": 8,
+                "isActive": true,
+                "logo": "thumbnail.png",
+                "image": "thumbnail.png",
+                "link": "http://localhost:8888/atlas_2.1/general/dhaka-11-dsfgrsdfh/12",
+                "url": "",
+                "name": "dhaka 11 dsfgrsdfh",
+                "category": "general",
+                "email": "",
+                "stars": "0.0",
+                "phone": "",
+                "address": "ewrqwer",
+                "about": "adsfasdf\r\n",
+                "tags": [
+                    ""
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "90.362696",
+                    "23.862997"
+                ]
+            },
+            "properties": {
+                "id": "5a4b72f47051b51a41e97b651201bc1c",
+                "index": 9,
+                "isActive": true,
+                "logo": "thumbnail.png",
+                "image": "thumbnail.png",
+                "link": "http://localhost:8888/atlas_2.1/general/dhaka-13-ddddd/14",
+                "url": "",
+                "name": "dhaka 13 ddddd",
+                "category": "general",
+                "email": "",
+                "stars": "0.0",
+                "phone": "",
+                "address": "asd",
+                "about": "asdf\r\n",
+                "tags": [
+                    ""
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "90.362296",
+                    "23.862597"
+                ]
+            },
+            "properties": {
+                "id": "355bdca6e32dcffc9d97d1b869be1bfd",
+                "index": 10,
+                "isActive": true,
+                "logo": "thumbnail.png",
+                "image": "thumbnail.png",
+                "link": "http://localhost:8888/atlas_2.1/general/dhaka14-gahsdfasfas/15",
+                "url": "",
+                "name": "Dhaka14 gahsdfasfas",
+                "category": "general",
+                "email": "",
+                "stars": "0.0",
+                "phone": "",
+                "address": "asdas",
+                "about": "asdfasdf\r\n",
+                "tags": [
+                    "adsfadsf"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "90.362696",
+                    "23.862997"
+                ]
+            },
+            "properties": {
+                "id": "39db889120f15b4a6861b7363bdb3ba5",
+                "index": 11,
+                "isActive": true,
+                "logo": "thumbnail.png",
+                "image": "thumbnail.png",
+                "link": "http://localhost:8888/atlas_2.1/general/dhaka-6-dfhtk/7",
+                "url": "",
+                "name": "dhaka 6 dfhtk",
+                "category": "general",
+                "email": "",
+                "stars": "0.0",
+                "phone": "",
+                "address": "sdf",
+                "about": "asdf\r\n",
+                "tags": [
+                    ""
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "90.362696",
+                    "23.862997"
+                ]
+            },
+            "properties": {
+                "id": "0d874e29038fe07c10d148b2d5d9dc03",
+                "index": 12,
+                "isActive": true,
+                "logo": "thumbnail.png",
+                "image": "thumbnail.png",
+                "link": "http://localhost:8888/atlas_2.1/general/dhaka-8-fgyjfgty/9",
+                "url": "",
+                "name": "dhaka 8 fgyjfgty",
+                "category": "general",
+                "email": "",
+                "stars": "0.0",
+                "phone": "",
+                "address": "sdf",
+                "about": "asdf\r\n",
+                "tags": [
+                    ""
+                ]
+            }
+        }
+    ]
+}

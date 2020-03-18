@@ -1,0 +1,22 @@
+Update instructions from version 2.0 to 2.1 -
+PLEASE READ AND FOLLOW THE STEPS CAREFULLY.
+
+If your application has been customised, Then keep your file backup and follow the step-by-step instructions below.
+
+1. Open the update_pack folder. Copy the assets folder from here and replace your server's assets folder.
+	Folder location: Your application root folder > assets
+
+
+2. Copy the controllers, helpers, models and views folder from here and replace your server's application folder.
+Folder location: Your application root folder > application > paste your folder
+
+
+3. Copy the autoload.php file from here and replace your server's config folder.
+Folder location: Your application root folder > application > config > autoload.php
+
+4. Import the update.sql file into your database.
+
+5. After that, Login as Admin.
+
+The latest version of 2.1. If you face any kind of difficulties, let us know through tickets.
+That's it.

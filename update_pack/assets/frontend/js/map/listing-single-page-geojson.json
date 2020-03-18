@@ -1,0 +1,34 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "90.362696",
+                    "23.862997"
+                ]
+            },
+            "properties": {
+                "id": "6310fae40526d40d0966d8d857980769",
+                "index": 0,
+                "isActive": true,
+                "logo": "thumbnail.png",
+                "image": "thumbnail.png",
+                "link": "http://localhost:8888/atlas_2.1/general/dhaka-1-dfgdfg/1",
+                "url": "",
+                "name": "dhaka 1 dfgdfg",
+                "category": "general",
+                "email": "",
+                "stars": "0.0",
+                "phone": "",
+                "address": "asd",
+                "about": "erqew\r\n",
+                "tags": [
+                    ""
+                ]
+            }
+        }
+    ]
+}
